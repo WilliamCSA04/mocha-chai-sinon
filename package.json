@@ -1,0 +1,8 @@
+{
+  "name": "mocha-chai-sinon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WilliamCSA04/mocha-chai-sinon",
+  "author": "Williamcsa04 <williamcaetano14@gmail.com>",
+  "license": "MIT"
+}
